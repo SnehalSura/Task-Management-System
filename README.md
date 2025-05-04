@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management System
 
 This project is a backend Task Management system built using Django and Django REST Framework (DRF). It allows users to create, retrieve, update, and delete tasks with features like filtering, sorting, and searching.
@@ -71,3 +72,6 @@ Navigate to /tasks/ for the Task API.
         PATCH: Updates a task by ID (partial update).
 
         DELETE: Deletes a task by ID.
+=======
+# Task-Management-System
+>>>>>>> aa5c28e968a4589e4fcf71562a36795b60d4cfad
