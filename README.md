@@ -10,8 +10,8 @@ This project is a backend Task Management system built using Django and Django R
 Follow these steps to set up the project:
 
 1. Clone this repository:
-
-   git clone <repository-url>
+   ```bash
+   git clone <repository-url>   
    cd <repository-name>
 
 2. Create and activate a virtual environment:
