@@ -3,7 +3,7 @@
 
 This project is a backend Task Management system built using Django and Django REST Framework (DRF). It allows users to create, retrieve, update, and delete tasks with features like filtering, sorting, and searching.
 
----
+---x
 
 ## Project Setup
 
@@ -39,7 +39,7 @@ Navigate to /tasks/ for the Task API.
     1. Task List
         URL: /tasks/
 
-        Methods:
+        * Methods:
 
         GET: Retrieves all tasks with optional filtering, searching, and sorting.
 
@@ -67,11 +67,8 @@ Navigate to /tasks/ for the Task API.
     2. Task Detail
         URL: /tasks/<int:id>/
 
-        Methods:
+        * Methods:
 
         PATCH: Updates a task by ID (partial update).
 
         DELETE: Deletes a task by ID.
-=======
-# Task-Management-System
->>>>>>> aa5c28e968a4589e4fcf71562a36795b60d4cfad
