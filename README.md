@@ -3,7 +3,7 @@
 
 This project is a backend Task Management system built using Django and Django REST Framework (DRF). It allows users to create, retrieve, update, and delete tasks with features like filtering, sorting, and searching.
 
----x
+---
 
 ## Project Setup
 
@@ -15,17 +15,21 @@ Follow these steps to set up the project:
    cd <repository-name>
 
 2. Create and activate a virtual environment:
+    ```bash
     virtualenv venv
     venv\Scripts\activate
 
 3. Install the dependencies:
+    ```bash
     pip install -r requirements.txt
 
 4. Apply database migrations:
+    ```bash
     python manage.py makemigrations
     python manage.py migrate
 
 5. Start the development server:
+    ```bash
     python manage.py runserver
 
 ## Running the Project
