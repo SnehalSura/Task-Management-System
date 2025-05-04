@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Management System
 
 This project is a backend Task Management system built using Django and Django REST Framework (DRF). It allows users to create, retrieve, update, and delete tasks with features like filtering, sorting, and searching.
