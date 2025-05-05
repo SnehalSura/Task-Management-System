@@ -10,7 +10,7 @@ Follow these steps to set up the project:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>   
+   git clone <repository-url>       
    cd <repository-name>
 
 2. Create and activate a virtual environment:
